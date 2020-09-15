@@ -1,0 +1,27 @@
+html {
+  min-height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: white;
+  min-width: 100%;
+}
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+.contenedor {
+  width: 95%;
+  margin: 0 auto;
+}
+
+/**
+---------Navegacion---------
+**/
+.navbar-brand {
+  padding-top: 0;
+}
+/*# sourceMappingURL=style.css.map */
